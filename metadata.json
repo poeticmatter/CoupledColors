@@ -1,0 +1,5 @@
+{
+  "name": "Color Slide Prototype",
+  "description": "A puzzle game prototype where sliding a button moves all buttons of the same color, and clicking a button copies an adjacent color.",
+  "requestFramePermissions": []
+}
